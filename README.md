@@ -1,4 +1,4 @@
-# Experiments_GECCO19
+# AUTOCVE_GECCO19
 
 Repository with the scripts used to perform the [AUTOCVE](https://github.com/celiolarcher/AUTOCVE) experiments submitted to GECCO 19.
 
